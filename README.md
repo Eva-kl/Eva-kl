@@ -29,4 +29,4 @@ ___
 
 
 <br>
-<sup>Many thanks to [Max Coppen](https://github.com/mxcop) who not only made and allowed me to use his .SVG logos but went above and beyond to design custom ones for me expecting nothing in return. Please check out their repos, they're really cool</sup> <br>
+<p>Many thanks to [Max Coppen](https://github.com/mxcop) who not only made and allowed me to use his .SVG logos but went above and beyond to design custom ones for me expecting nothing in return. Please check out their repos, they're really cool</p> <br>
