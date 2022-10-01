@@ -1,6 +1,7 @@
 
-## <center> Hiiiiii </center>
 <div align="center">
+<h3> Hiiiiii </h3>
+
 <center><p> I'm Eva, backend dev testing the waters with fullstack 
  
  <br>Educated in network engineering, Windows Operating System Certified and daily driving linux. <br>
