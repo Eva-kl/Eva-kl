@@ -2,10 +2,10 @@
 <div align="center">
 <h3> Hiiiiii </h3>
 
- <p> I'm Eva, backend dev testing the waters with fullstack</p> 
+I'm Eva, backend dev testing the waters with fullstack> 
  
- <p>Educated in network engineering, Windows Operating System Certified and daily driving linux. </p>
- <p> I like contributing to cool open source projects and sometimes building my own, usually for niche communities in need of some better tools  </p>
+ Educated in network engineering, Windows Operating System Certified and daily driving linux. 
+I like contributing to cool open source projects and sometimes building my own, usually for niche communities in need of some better tools
  
    
 </div>
