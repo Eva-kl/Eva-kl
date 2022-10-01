@@ -32,4 +32,6 @@ ___
 <br>
 
 
- <div align="center">Many thanks to <a href="https://github.com/mxcop">Max Coppen</a> who not only made and allowed me to use his .SVG logos but went above and beyond to design</div <div align="center">custom ones for me expecting nothing in return. Please check out their repos, they're really cool</div>
+ <div align="center">
+ <p>Many thanks to <a href="https://github.com/mxcop">Max Coppen</a> who not only made and allowed me to use his .SVG logos but went above and beyond to design custom</p> 
+ <p>ones for me expecting nothing in return. Please check out their repos, they're really cool</p></div>
