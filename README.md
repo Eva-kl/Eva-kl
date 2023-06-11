@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3> Grüezi! </h3>
+<h3> Greetings! </h3>
 
 I'm Eva, backend dev testing the waters with fullstack
  
